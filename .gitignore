@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+*.pkl
+venv
+.idea
+**/.idea/
+*.pyc
+**/__pycache__/
+config/*.yml
+logs
+.idea
